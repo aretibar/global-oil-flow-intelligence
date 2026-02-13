@@ -61,6 +61,7 @@ UAE
 📓 Jupyter Notebook
 
 📈 Methodology
+
 1️⃣ Global Production Aggregation
 
 Daily country production aggregated into total global supply.
